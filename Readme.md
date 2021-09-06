@@ -13,4 +13,4 @@ No-VNC with Browser Autostart
 | PROGRAM   | (none)        | firefox           |firefox,chrome or unset to use lxpanel |
 | URL       | (none)        | https://localhost |                                       |
 
-![Example Screenshot](https://github.com/leykevin/browser-vnc/noVNC.png)
+![Example Screenshot](https://github.com/leykevin/browser-vnc/blob/master/noVNC.png?raw=true)
