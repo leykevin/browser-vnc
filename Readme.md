@@ -1,11 +1,11 @@
-#Browser-VNC
+# Browser-VNC
 
 No-VNC with Browser Autostart
 
-##How to use:
+## How to use:
 > docker run -p 6080:6080 leykevin/browser-vnc:latest
 
-##Environments:
+## Environments:
 | Parameter | Default Value | Exampe            | Hint                                  |
 | --------- | ------------- | ----------------- | ------------------------------------- |
 | VNC_PASS  | 123456        | abc123            | 6chars                                |
